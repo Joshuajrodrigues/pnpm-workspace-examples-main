@@ -1,0 +1,3 @@
+// pnpm-monorepo/packages/shared/index.ts
+export const sayHi = (userName: string) => console.log(`Hi ${userName}`)
+export const sayBi =()=> console.log("Bye");

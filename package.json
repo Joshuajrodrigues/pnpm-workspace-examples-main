@@ -1,0 +1,19 @@
+{
+  "name": "pnpm-workspace-examples-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.9"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "typescript-node": "^0.1.3"
+  }
+}
